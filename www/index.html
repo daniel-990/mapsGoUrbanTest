@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v3"></script>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!--<script type="text/javascript" src="js/jquery-2.js"></script>-->
+    <script type="text/javascript" src="js/index.js"></script>
+  </head>
+  <body ng-app="starter">
+  <div id="mapa"></div>
+  <div id="menu">
+  <h3><strong>Encuentra tu Ruta:</strong></h3>
+    <form id="formulario" action="">
+       <input type="text" name="buscar" placeholder="busca tu ruta">
+       <br>
+       <input id="buscar" type="submit" value="buscar">
+       <input id="ubicame" type="submit" value="ubicame">
+    </form>
+    <textarea id="texto" name="" rows="5" cols="6"></textarea>
+  </div>
+  </body>
+</html>
