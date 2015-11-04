@@ -12,4 +12,6 @@ si no queremos hacer uso de todo este proceso solo instalamos un servidor local 
 
 espero les sirva, para implementaciones fururas como dije al principio esto es solo una guia sencilla de como implementar la herramienta mapas de google utilizando `Google Maps Javascript API`
 
+este trabajo se encuentra actualmente en proceso de creacion, ofresco disculpas por la poca documentacion ofrecida.
+
 
